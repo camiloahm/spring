@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Chapter 8/asyncItemProcessorItemWriter/asynctItemProcessorItemWriter.iml" filepath="$PROJECT_DIR$/Chapter 8/asyncItemProcessorItemWriter/asynctItemProcessorItemWriter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter 6/compositeItemProcessor/composite-item-processor.iml" filepath="$PROJECT_DIR$/Chapter 6/compositeItemProcessor/composite-item-processor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter 4/databaseInput/database-input.iml" filepath="$PROJECT_DIR$/Chapter 4/databaseInput/database-input.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter 5/databaseOutput/database-output.iml" filepath="$PROJECT_DIR$/Chapter 5/databaseOutput/database-output.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter 3/decisions/decision.iml" filepath="$PROJECT_DIR$/Chapter 3/decisions/decision.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter 6/filteringItemProcessor/filtering-item-processor.iml" filepath="$PROJECT_DIR$/Chapter 6/filteringItemProcessor/filtering-item-processor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter 5/flatFileOutput/flat-file-output (1).iml" filepath="$PROJECT_DIR$/Chapter 5/flatFileOutput/flat-file-output (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter 5/xmlFileOutput/flat-file-output (2).iml" filepath="$PROJECT_DIR$/Chapter 5/xmlFileOutput/flat-file-output (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter 4/flatFiles/flat-files.iml" filepath="$PROJECT_DIR$/Chapter 4/flatFiles/flat-files.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter 3/flow/flow.iml" filepath="$PROJECT_DIR$/Chapter 3/flow/flow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter 2/helloWorld/hello-world.iml" filepath="$PROJECT_DIR$/Chapter 2/helloWorld/hello-world.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter 10/informationalMessages/informational-messages.iml" filepath="$PROJECT_DIR$/Chapter 10/informationalMessages/informational-messages.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter 4/inputInterfaces/input-interfaces.iml" filepath="$PROJECT_DIR$/Chapter 4/inputInterfaces/input-interfaces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter 6/itemProcessorInterface/item-processor-interface.iml" filepath="$PROJECT_DIR$/Chapter 6/itemProcessorInterface/item-processor-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter 6/itemValidation/item-validation.iml" filepath="$PROJECT_DIR$/Chapter 6/itemValidation/item-validation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter 5/itemWriter/item-writer.iml" filepath="$PROJECT_DIR$/Chapter 5/itemWriter/item-writer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter 3/jobParameters/job-parameters.iml" filepath="$PROJECT_DIR$/Chapter 3/jobParameters/job-parameters.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter 10/launchingViaMessages/launching-via-messages.iml" filepath="$PROJECT_DIR$/Chapter 10/launchingViaMessages/launching-via-messages.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter 3/listeners/listeners (1).iml" filepath="$PROJECT_DIR$/Chapter 3/listeners/listeners (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter 7/listeners/listeners (2).iml" filepath="$PROJECT_DIR$/Chapter 7/listeners/listeners (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter 8/localPartitioning/local-partitioning.iml" filepath="$PROJECT_DIR$/Chapter 8/localPartitioning/local-partitioning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter 8/remotePartitioning/target/maven-archiver/maven-archiver.iml" filepath="$PROJECT_DIR$/Chapter 8/remotePartitioning/target/maven-archiver/maven-archiver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter 4/multipleFlatFiles/multiple-flat-files.iml" filepath="$PROJECT_DIR$/Chapter 4/multipleFlatFiles/multiple-flat-files.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter 8/multithreadedStep/multithreaded-step.iml" filepath="$PROJECT_DIR$/Chapter 8/multithreadedStep/multithreaded-step.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter 3/nestedJobs/nestedJobs.iml" filepath="$PROJECT_DIR$/Chapter 3/nestedJobs/nestedJobs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter 4/readingXML/reading-xml.iml" filepath="$PROJECT_DIR$/Chapter 4/readingXML/reading-xml.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter 8/remotePartitioning/remote-partitioning.iml" filepath="$PROJECT_DIR$/Chapter 8/remotePartitioning/remote-partitioning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter 8/remoteChunking/remoteChunking.iml" filepath="$PROJECT_DIR$/Chapter 8/remoteChunking/remoteChunking.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter 7/restart/restart.iml" filepath="$PROJECT_DIR$/Chapter 7/restart/restart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter 7/retry/retry.iml" filepath="$PROJECT_DIR$/Chapter 7/retry/retry.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter 9/schedulingAJob/scheduling-a-job.iml" filepath="$PROJECT_DIR$/Chapter 9/schedulingAJob/scheduling-a-job.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter 7/skip/skip.iml" filepath="$PROJECT_DIR$/Chapter 7/skip/skip.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter 7/skipRetryListeners/skipRetryListeners.iml" filepath="$PROJECT_DIR$/Chapter 7/skipRetryListeners/skipRetryListeners.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter 3/split/split.iml" filepath="$PROJECT_DIR$/Chapter 3/split/split.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter 9/startingAJob/starting-a-job.iml" filepath="$PROJECT_DIR$/Chapter 9/startingAJob/starting-a-job.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter 4/itemStream/stateful-reading.iml" filepath="$PROJECT_DIR$/Chapter 4/itemStream/stateful-reading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter 9/stoppingAJob/stop-a-job.iml" filepath="$PROJECT_DIR$/Chapter 9/stoppingAJob/stop-a-job.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter 3/transitions/transitions.iml" filepath="$PROJECT_DIR$/Chapter 3/transitions/transitions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter 5/writingMultipleDestinations/write-multiple-destinations.iml" filepath="$PROJECT_DIR$/Chapter 5/writingMultipleDestinations/write-multiple-destinations.iml" />
+    </modules>
+  </component>
+</project>

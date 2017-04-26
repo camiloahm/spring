@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="asynctItemProcessorItemWriter" />
+        <module name="composite-item-processor" />
+        <module name="database-input" />
+        <module name="database-output" />
+        <module name="decision" />
+        <module name="filtering-item-processor" />
+        <module name="flat-file-output (1)" />
+        <module name="flat-file-output (2)" />
+        <module name="flat-files" />
+        <module name="flow" />
+        <module name="hello-world" />
+        <module name="informational-messages" />
+        <module name="input-interfaces" />
+        <module name="item-processor-interface" />
+        <module name="item-validation" />
+        <module name="item-writer" />
+        <module name="job-parameters" />
+        <module name="launching-via-messages" />
+        <module name="listeners (1)" />
+        <module name="listeners (2)" />
+        <module name="local-partitioning" />
+        <module name="multiple-flat-files" />
+        <module name="multithreaded-step" />
+        <module name="nestedJobs" />
+        <module name="reading-xml" />
+        <module name="remote-partitioning" />
+        <module name="remoteChunking" />
+        <module name="restart" />
+        <module name="retry" />
+        <module name="scheduling-a-job" />
+        <module name="skip" />
+        <module name="skipRetryListeners" />
+        <module name="split" />
+        <module name="starting-a-job" />
+        <module name="stateful-reading" />
+        <module name="stop-a-job" />
+        <module name="transitions" />
+        <module name="write-multiple-destinations" />
+      </profile>
+      <profile name="Annotation profile for Unknown" enabled="true">
+        <sourceOutputDir name="../generated-sources/annotations" />
+        <sourceTestOutputDir name="../generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="maven-archiver" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="asynctItemProcessorItemWriter" target="1.8" />
+      <module name="composite-item-processor" target="1.8" />
+      <module name="database-input" target="1.8" />
+      <module name="database-output" target="1.8" />
+      <module name="decision" target="1.8" />
+      <module name="filtering-item-processor" target="1.8" />
+      <module name="flat-file-output (1)" target="1.8" />
+      <module name="flat-file-output (2)" target="1.8" />
+      <module name="flat-files" target="1.8" />
+      <module name="flow" target="1.8" />
+      <module name="hello-world" target="1.8" />
+      <module name="informational-messages" target="1.8" />
+      <module name="input-interfaces" target="1.8" />
+      <module name="item-processor-interface" target="1.8" />
+      <module name="item-validation" target="1.8" />
+      <module name="item-writer" target="1.8" />
+      <module name="job-parameters" target="1.8" />
+      <module name="launching-via-messages" target="1.8" />
+      <module name="listeners (1)" target="1.8" />
+      <module name="listeners (2)" target="1.8" />
+      <module name="local-partitioning" target="1.8" />
+      <module name="maven-archiver" target="1.5" />
+      <module name="multiple-flat-files" target="1.8" />
+      <module name="multithreaded-step" target="1.8" />
+      <module name="nestedJobs" target="1.8" />
+      <module name="reading-xml" target="1.8" />
+      <module name="remote-partitioning" target="1.8" />
+      <module name="remoteChunking" target="1.8" />
+      <module name="restart" target="1.8" />
+      <module name="retry" target="1.8" />
+      <module name="scheduling-a-job" target="1.8" />
+      <module name="skip" target="1.8" />
+      <module name="skipRetryListeners" target="1.8" />
+      <module name="split" target="1.8" />
+      <module name="starting-a-job" target="1.8" />
+      <module name="stateful-reading" target="1.8" />
+      <module name="stop-a-job" target="1.8" />
+      <module name="transitions" target="1.8" />
+      <module name="write-multiple-destinations" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

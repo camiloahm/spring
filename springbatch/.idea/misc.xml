@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/Chapter 2/helloWorld/pom.xml" />
+        <option value="$PROJECT_DIR$/Chapter 3/flow/pom.xml" />
+        <option value="$PROJECT_DIR$/Chapter 3/split/pom.xml" />
+        <option value="$PROJECT_DIR$/Chapter 3/decisions/pom.xml" />
+        <option value="$PROJECT_DIR$/Chapter 3/listeners/pom.xml" />
+        <option value="$PROJECT_DIR$/Chapter 3/nestedJobs/pom.xml" />
+        <option value="$PROJECT_DIR$/Chapter 3/transitions/pom.xml" />
+        <option value="$PROJECT_DIR$/Chapter 3/jobParameters/pom.xml" />
+        <option value="$PROJECT_DIR$/Chapter 4/flatFiles/pom.xml" />
+        <option value="$PROJECT_DIR$/Chapter 4/itemStream/pom.xml" />
+        <option value="$PROJECT_DIR$/Chapter 4/readingXML/pom.xml" />
+        <option value="$PROJECT_DIR$/Chapter 4/databaseInput/pom.xml" />
+        <option value="$PROJECT_DIR$/Chapter 4/inputInterfaces/pom.xml" />
+        <option value="$PROJECT_DIR$/Chapter 4/multipleFlatFiles/pom.xml" />
+        <option value="$PROJECT_DIR$/Chapter 5/itemWriter/pom.xml" />
+        <option value="$PROJECT_DIR$/Chapter 5/xmlFileOutput/pom.xml" />
+        <option value="$PROJECT_DIR$/Chapter 5/databaseOutput/pom.xml" />
+        <option value="$PROJECT_DIR$/Chapter 5/flatFileOutput/pom.xml" />
+        <option value="$PROJECT_DIR$/Chapter 5/writingMultipleDestinations/pom.xml" />
+        <option value="$PROJECT_DIR$/Chapter 6/itemValidation/pom.xml" />
+        <option value="$PROJECT_DIR$/Chapter 6/compositeItemProcessor/pom.xml" />
+        <option value="$PROJECT_DIR$/Chapter 6/filteringItemProcessor/pom.xml" />
+        <option value="$PROJECT_DIR$/Chapter 6/itemProcessorInterface/pom.xml" />
+        <option value="$PROJECT_DIR$/Chapter 7/skip/pom.xml" />
+        <option value="$PROJECT_DIR$/Chapter 7/retry/pom.xml" />
+        <option value="$PROJECT_DIR$/Chapter 7/restart/pom.xml" />
+        <option value="$PROJECT_DIR$/Chapter 7/listeners/pom.xml" />
+        <option value="$PROJECT_DIR$/Chapter 7/skipRetryListeners/pom.xml" />
+        <option value="$PROJECT_DIR$/Chapter 8/remoteChunking/pom.xml" />
+        <option value="$PROJECT_DIR$/Chapter 8/localPartitioning/pom.xml" />
+        <option value="$PROJECT_DIR$/Chapter 8/multithreadedStep/pom.xml" />
+        <option value="$PROJECT_DIR$/Chapter 8/remotePartitioning/target/maven-archiver/pom.properties" />
+        <option value="$PROJECT_DIR$/Chapter 8/remotePartitioning/pom.xml" />
+        <option value="$PROJECT_DIR$/Chapter 8/asyncItemProcessorItemWriter/pom.xml" />
+        <option value="$PROJECT_DIR$/Chapter 9/startingAJob/pom.xml" />
+        <option value="$PROJECT_DIR$/Chapter 9/stoppingAJob/pom.xml" />
+        <option value="$PROJECT_DIR$/Chapter 9/schedulingAJob/pom.xml" />
+        <option value="$PROJECT_DIR$/Chapter 10/launchingViaMessages/pom.xml" />
+        <option value="$PROJECT_DIR$/Chapter 10/informationalMessages/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

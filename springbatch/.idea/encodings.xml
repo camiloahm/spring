@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/Chapter 10/informationalMessages" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chapter 10/launchingViaMessages" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chapter 2/helloWorld" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chapter 3/decisions" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chapter 3/flow" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chapter 3/jobParameters" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chapter 3/listeners" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chapter 3/nestedJobs" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chapter 3/split" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chapter 3/transitions" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chapter 4/databaseInput" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chapter 4/flatFiles" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chapter 4/inputInterfaces" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chapter 4/itemStream" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chapter 4/multipleFlatFiles" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chapter 4/readingXML" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chapter 5/databaseOutput" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chapter 5/flatFileOutput" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chapter 5/itemWriter" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chapter 5/writingMultipleDestinations" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chapter 5/xmlFileOutput" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chapter 6/compositeItemProcessor" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chapter 6/filteringItemProcessor" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chapter 6/itemProcessorInterface" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chapter 6/itemValidation" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chapter 7/listeners" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chapter 7/restart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chapter 7/retry" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chapter 7/skip" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chapter 7/skipRetryListeners" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chapter 8/asyncItemProcessorItemWriter" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chapter 8/localPartitioning" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chapter 8/multithreadedStep" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chapter 8/remoteChunking" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chapter 8/remotePartitioning" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chapter 9/schedulingAJob" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chapter 9/startingAJob" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chapter 9/stoppingAJob" charset="UTF-8" />
+  </component>
+</project>
